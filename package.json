@@ -1,5 +1,5 @@
 {
-  "name": "lit-example",
+  "name": "@phetw/awesome-marquee",
   "version": "1.0.0",
   "description": "A webcomponent built using lit 2.0",
   "main": "dist/index.js",

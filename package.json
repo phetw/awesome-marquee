@@ -1,0 +1,22 @@
+{
+  "name": "lit-example",
+  "version": "1.0.0",
+  "description": "A webcomponent built using lit 2.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "concurrently \"tsc -w\" \"wds --node-resolve\"",
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Wasuwat Limsuparhat",
+  "license": "MIT",
+  "dependencies": {
+    "lit": "^2.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.17",
+    "concurrently": "^6.0.2",
+    "typescript": "^4.2.4"
+  }
+}

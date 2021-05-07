@@ -1,2 +1,2 @@
-# lit2.0-example
+# awesome-marquee
 An example web component built using lit 2.0
